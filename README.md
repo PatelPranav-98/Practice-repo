@@ -1,3 +1,1 @@
-# Practice-repo 
-patel pranav
-edit by me
+# QR Scan
